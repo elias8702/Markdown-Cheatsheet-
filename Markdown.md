@@ -110,16 +110,69 @@
 
 # لینک‌ها 
 
+```
 [من یک لینکم رومن کلید کن](https://www.google.com/)
 
 [منم یک لینکم فقط اگه روی من چند دقیقه نگهداری پیامی هم نشان می‌دهم](https://www.google.com/ "لینک گوگلم")
 
 [منم یک لینکم فقط من ادرس از یک فایل متنی می‌خونم](text)
 
-[من یک لینکم من به یک ادرس پوشه می‌رم](../master/README.md)
+[منم یک لینکم من به یک ادرس پوشه می‌رم](../master/README.md)
+
+[منم یک لینکم اما به جای می‌رم] پس می‌توانید از متن خودتون استفاده کنید
+
+[منم یک لینکم البته لینکم یک مقدار عددی است](1)
+
+لینک‌ها استفاده شده در اینجا همه برای مثال است
 
 
+[text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[منم یک لینکم اما به جای می‌رم]: http://www.reddit.com
+
+```
+
+[من یک لینکم رومن کلید کن](https://www.google.com/)
+
+[منم یک لینکم فقط اگه روی من چند دقیقه نگهداری پیامی هم نشان می‌دهم](https://www.google.com/ "لینک گوگلم")
+
+[منم یک لینکم فقط من ادرس از یک فایل متنی می‌خونم](text)
+
+[منم یک لینکم من به یک ادرس پوشه می‌رم](../master/README.md)
+
+[منم یک لینکم اما به جای می‌رم] پس می‌توانید از متن خودتون استفاده کنید
+
+[منم یک لینکم البته لینکم یک مقدار عددی است](1)
+
+لینک‌ها استفاده شده در اینجا همه برای مثال است
 
 
+[text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[منم یک لینکم اما به جای می‌رم]: http://www.reddit.com
+
+
+# عکس
+
+اینجا یک لوگو داریم به همراه متون:
+```
+لوگو با دارس لینکی
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "متون لوگو۱")
+
+لوگو با متغییر 
+![alt text][logo]
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "متون لوگو۲"
+```
+
+لوگو با دارس لینکی
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "متون لوگو۱")
+
+لوگو با متغییر 
+![alt text][logo]
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "متون لوگو۲"
 
 
