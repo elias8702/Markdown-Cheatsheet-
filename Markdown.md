@@ -1,40 +1,4 @@
 <div dir=rtl>
-محتوای جداول
-
-[سرایند](#a)
-
-
-[تاکیدها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#b)
-
-
-[لیست‌ها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#c) 
-
-
-[پیوندها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#d)
-
-
-[عکس](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#f)
-
-
-[جدل‌سازی کد‌ها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#g)
-
-
-[جداول](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#h) 
-
-
-[بلوک‌های نقل‌قل](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#i)
-
-
-[اچ‌تی‌ام‌ال در مارک‌دون](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#j)
-
-
-[روش افقی](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#k)
-
-
-[خطوط براکت‌ها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#l)
-
-
-[ویدو‌های‌ یوتیوب](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#m)
 
 
 {#a}
