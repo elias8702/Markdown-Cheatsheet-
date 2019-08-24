@@ -1,7 +1,7 @@
 <div dir=rtl>
 محتوای جداول
 
-[سرایند](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#a)
+[سرایند](#a)
 
 
 [تاکیدها](https://github.com/elias8702/Markdown-Cheatsheet-/blob/master/Markdown.md#b)
