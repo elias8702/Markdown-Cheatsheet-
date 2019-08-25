@@ -15,3 +15,6 @@
 برگفته شده،ترجمه‌شده از [روی من به اینجاهم یک سری بزنید](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 مترجم: **لیاس‌ روحانی**
+
+
+تحت مجوز : [CC-BY](https://creativecommons.org/licenses/by/3.0/)
